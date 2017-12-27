@@ -4,7 +4,7 @@
 the Script run_analysis.R performs and analysis on a data set of Human Activity Recognition. It combines the training and test set and groups the data by the activity type. Further more it calculats the average of each Mean and Standard Deviation Feature for each group.
 
 # Codebook
-Codebook is available here [CodeBook]()
+Codebook is available here [CodeBook](https://github.com/jorisbe/GettingCleaningData/blob/master/CodeBook.md)
 
 # Instructions
 1. Download and extract the [DataSet](http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones)
